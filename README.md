@@ -6,12 +6,14 @@ This repository has the intent of mapping values in the 'current status' registe
 
 Heat pump used: S1155
 
+## Status messages
+
 | Status numerical  | Description | Used for |
 | ------------- | ------------- | ------------- |
 |  1  | Standby  ||
 | 8 | Startup | Displayed when the heat pump is initializing|
 | 9 | Standby ||
-| 4139 | heating ||
+| 4139 | Heating ||
 | 8235 | Hot water ||
 | 524329 | Passive cooling ||
 | 4194305 | Smart Price Adaptation ||
