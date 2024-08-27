@@ -1,6 +1,8 @@
 # Nibe heat pump status messages
 
-This repository has the intent of mapping values in the 'current status' register of a Nibe heat pump to actual status messages. This allows users to display the status of the heat pump correctly (ex. in Home Assistant). Note that this is entirely trail & error based and does not reflect offcial nibe satus messages.
+This repository has the intent of mapping values in the 'current status' register of a Nibe heat pump to actual status messages. This allows users to display the status of the heat pump correctly (ex. in Home Assistant). 
+
+*Note that this is entirely trail & error based and does not reflect offcial nibe satus messages.*
 
 Heat pump used: S1155
 
