@@ -19,6 +19,8 @@ Heat pump used: S1155
 | 4194305 | Smart Price Adaptation ||
 | 4194313 | Smart Price Adaptation Idle ||
 | 4198443 | Smart Price Adaptation with heating ||
+| 4198442 | Smart Price Adaptation with heating ||
 | 4202539 | Smart Price Adaptation with hot water ||
+| 4202538 | Smart Price Adaptation with hot water ||
 | 4718633 | Smart Price Adaptation with passive cooling ||
 
