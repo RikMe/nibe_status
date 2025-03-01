@@ -17,6 +17,7 @@ Heat pump used: S1155
 | 8235 | Hot water ||
 | 524329 | Passive cooling ||
 | 4194305 | Smart Price Adaptation ||
+| 4194312 | Smart Price Adaptation vacation mode ||
 | 4194313 | Smart Price Adaptation Idle ||
 | 4198442 | Smart Price Adaptation with heating ||
 | 4198443 | Smart Price Adaptation with heating ||
